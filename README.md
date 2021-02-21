@@ -2,3 +2,4 @@
 
 A sample Node application with React, Webpack and Babel support
 [Edited]
+[MoreEdit]
